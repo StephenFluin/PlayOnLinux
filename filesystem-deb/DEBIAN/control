@@ -1,0 +1,8 @@
+Package: playonlinux
+Version: 3.7.3
+Section: base
+Priority: optional
+Architecture: all
+Depends: unzip, wine, wget, xterm, python, python-wxgtk2.8, imagemagick, cabextract, icoutils
+Maintainer: Tinou 
+Description: PlayOnLinux is a front-end for wine. It permits you to install Windows Games and softwares on Linux.
